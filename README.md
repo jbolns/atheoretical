@@ -3,7 +3,7 @@ A set of VBA scripts to rapidly produce supervised ML analyses in Excel.
 
 Helpful when you run need to run regressions/supervised ML in Excel on a periodical basis and you want to save yourself some time.
 
-Version -1. Expect bugs. Loads of them.
+Expect bugs. Loads of them.
 
 ### Notes
 - The *mainFiles* folder contains an Excel document with clear guidance, preloaded scripts, and pre-populated (dummy) hyper-parameters.
