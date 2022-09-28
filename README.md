@@ -3,12 +3,14 @@ A set of VBA scripts to rapidly produce supervised ML analyses in Excel.
 
 Helpful when you run need to run regressions/supervised ML in Excel on a periodical basis and you want to save yourself some time.
 
-Do note, however, that the file is currently limited to clean datasets with quantitative continuous variables.
+Do note, however, that the file is currently limited to clean datasets with quantitative continuous variables. Also, it's version -1. Expect bugs. Loads of them.
 
 ### Notes
-- The scripts are given as *.bas* files, which can be imported easily into Excel's VBA console.
-- Alternatively, the repo contains an Excel document with preloaded scripts and pre-populated (dummy) hyper-parameters, for testing.
-- The dataset in this folder is also for testing purposes.
+- The *mainFiles* folder contains an Excel document with clear guidance, preloaded scripts, and pre-populated (dummy) hyper-parameters.
+- The *mainFiles* folder also contains a dataset that can be used for testing (due credits given in Excel file).
+- Theoretically, the file should be able to handle other data files. That's ultimately the goal.
+
+- Additionally, the individual modules/scripts are given as *.bas* files, which can be imported easily into Excel's VBA console.
 
 ### Pending:
 - [ ] Documentation. The Excel file includes guidance, but more detailed documentation would not hurt.
