@@ -7,7 +7,7 @@ Very early stages. Expect bugs. Loads of them.
 
 ### Notes
 - The *mainFiles* folder contains an Excel document with clear guidance, preloaded scripts, and pre-populated (dummy) hyper-parameters.
-- The *mainFiles* folder also contains a dataset that can be used for testing (due credits given in Excel file).
+- The *mainFiles* folder also contains a (zipped) dataset that can be used for testing (due credits given in Excel file).
 - The individual modules/scripts are given as *.bas* files, which can be imported easily into Excel's VBA console.
 
 - Eventually, the file should be able to handle any *clean* dataset made of quantitative continuous variables. It will take a while until things run smoothly, though.
